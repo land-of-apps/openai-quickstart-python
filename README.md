@@ -2,6 +2,12 @@
 
 This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Check out the tutorial or follow the instructions below to get set up.
 
+## AppMap
+
+<img width="895" alt="Screen Shot 2023-05-05 at 9 45 31 AM" src="https://user-images.githubusercontent.com/86395/236475148-22bf917a-7651-4e7d-96fa-ca17b6b05b74.png">
+
+[1683294119_179474_http_127_0_0_1_5000_.appmap.json.zip](https://github.com/land-of-apps/openai-quickstart-python/files/11406794/1683294119_179474_http_127_0_0_1_5000_.appmap.json.zip)
+
 ## Setup
 
 1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/).
