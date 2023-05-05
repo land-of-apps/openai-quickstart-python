@@ -4,11 +4,11 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 
 ## AppMap
 
-<img width="895" alt="The App" src="https://user-images.githubusercontent.com/86395/236475148-22bf917a-7651-4e7d-96fa-ca17b6b05b74.png">
+<img width="452" alt="Application main page" src="https://user-images.githubusercontent.com/86395/236482567-e52359ca-0053-4145-97e9-3e52aa260d67.png">
 
-<img width="1150" alt="AppMap sequence diagram of the primary request flow" src="https://user-images.githubusercontent.com/86395/236475364-37d21c69-a7a7-47ff-a8d2-edd39f0fbf5b.png">
+<img width="1454" alt="AppMap sequence diagram" src="https://user-images.githubusercontent.com/86395/236483099-beb4ba5a-ba31-427b-81ef-fb8b273df799.png">
 
-[index.appmap.json.zip](https://github.com/land-of-apps/openai-quickstart-python/files/11406794/1683294119_179474_http_127_0_0_1_5000_.appmap.json.zip)
+[request.appmap.json.zip](https://github.com/land-of-apps/openai-quickstart-python/files/11407087/1683295765_864878_http_127_0_0_1_5000_.appmap.json.zip)
 
 ## Setup
 
