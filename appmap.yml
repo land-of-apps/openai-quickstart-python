@@ -4,3 +4,4 @@ name: openai-quickstart-python
 packages:
   - path: app
   - dist: openai
+  - dist: flask
