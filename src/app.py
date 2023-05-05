@@ -24,13 +24,13 @@ def create_app():
     return app
 
 def generate_prompt(animal):
-    return """Suggest three names for an animal that is a superhero.
+    return """Suggest three names for an dog.
 
-Animal: Cat
-Names: Captain Sharpclaw, Agent Fluffball, The Incredible Feline
-Animal: Dog
-Names: Ruff the Protector, Wonder Canine, Sir Barks-a-Lot
 Animal: {}
-Names:""".format(
+Names:
+
+System Instructions:
+The name should be a pun of a 90s rock band
+""".format(
         animal.capitalize()
     )
