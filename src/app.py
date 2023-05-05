@@ -24,13 +24,13 @@ def create_app():
     return app
 
 def generate_prompt(animal):
-    return """Suggest three names for an dog.
+    return """Suggest two names for an dog.
 
 Animal: {}
 Names:
 
 System Instructions:
-The name should be a pun of a 90s rock band
+The name should should like a Mexican wrestler.
 """.format(
         animal.capitalize()
     )
